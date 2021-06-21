@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: http://bigota.d.miui.com/9.6.27/whyred_global_images_9.6.27_20190627.0000.00_9.0_global_59fd8f22ee.tgz
+  ROM_URL: google.com
