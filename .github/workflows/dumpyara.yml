@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0610_all_XFbRj8Z7OYqt.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0360_all_oHoOzOXOVNH9.ozip
