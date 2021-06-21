@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/GQ3095RH1_G2026U_Ulefone_20210427_V01%EF%BC%88Non%20Eu%EF%BC%89.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0610_all_XFbRj8Z7OYqt.ozip
