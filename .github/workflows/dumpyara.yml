@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: google.com
+  ROM_URL: https://component-ota-fs-f.coloros.com/component-ota/21/05/31/4634cbee75f4411c8b0303d83e3fbebf.zip
