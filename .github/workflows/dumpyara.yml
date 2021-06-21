@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0360_all_oHoOzOXOVNH9.ozip
+  ROM_URL: http://bigota.d.miui.com/9.6.27/whyred_global_images_9.6.27_20190627.0000.00_9.0_global_59fd8f22ee.tgz
