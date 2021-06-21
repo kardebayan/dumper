@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: ls
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
