@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX2001EU_11_OTA_0520_all_yLnwguI24dc3.ozip
+  ROM_URL: https://drive.google.com/file/d/1NF8o7fU9WpFDKXtgO0Ait080iLB8axWX/view?usp=sharing
