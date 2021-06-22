@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://drive.google.com/file/d/1NF8o7fU9WpFDKXtgO0Ait080iLB8axWX/view?usp=sharing
+  ROM_URL: https://realme1.hitesh920.workers.dev//GQ3095RH1_G2026U_Ulefone_EEA_20210426_V01%EF%BC%88Eu%EF%BC%89.zip
