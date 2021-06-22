@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1170_all_aGAaLwux8YvR.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/RMX2001EU_11_OTA_0520_all_yLnwguI24dc3.ozip
