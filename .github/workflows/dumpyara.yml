@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1170_all_aGAaLwux8YvR.ozip
