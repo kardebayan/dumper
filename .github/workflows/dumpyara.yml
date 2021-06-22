@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/lineage-18.1-20210621_173750-UNOFFICIAL-CPH1859.zip
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1859/CPH1859EX_11_OTA_1180_all_SkDOAoKxXCKo.ozip
