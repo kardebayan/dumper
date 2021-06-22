@@ -41,4 +41,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1859/CPH1859EX_11_OTA_1180_all_SkDOAoKxXCKo.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
