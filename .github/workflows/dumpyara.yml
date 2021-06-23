@@ -20,12 +20,7 @@ jobs:
 
        - name: Clone Dumpyara
          run: |
-              if [ -f "private.txt" ]
-              then
-                  git clone https://github.com/ksauraj1/dumpyara.git -b private
-              else
-                  git clone https://github.com/ksauraj1/dumpyara.git
-              fi
+              git clone https://github.com/ksauraj1/dumpyara.git
               
        - name: Setup Dumpyara environment
          working-directory: dumpyara
