@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://www.xiaomifirmwareupdater.com/firmware/surya/
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1140_all_p1Z4tROJMLm1.ozip
