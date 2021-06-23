@@ -1,5 +1,5 @@
 name: Dump
- 
+ #
 on:
   push:
     paths-ignore:
@@ -20,13 +20,20 @@ jobs:
 
        - name: Clone Dumpyara
          run: |
-              git clone https://github.com/ksauraj1/dumpyara.git
+              if [ -f "private.txt" ]
+              then
+                  git clone https://github.com/ksauraj1/dumpyara.git -b private
+              else
+                  git clone https://github.com/ksauraj1/dumpyara.git
+              fi
+              
        - name: Setup Dumpyara environment
          working-directory: dumpyara
          run: |
               sudo bash setup.sh
-              git config --global user.name "ksauraj1"
-              git config --global user.email "kumarsauraj24@gmail.com"
+              git config --global user.name "mirrordump"
+              git config --global user.email "mirrordump@mymail.infos.st"
+
        - name: Setup config envs
          working-directory: dumpyara
          run: |
@@ -38,7 +45,8 @@ jobs:
        - name: Running Dumpyara
          working-directory: dumpyara
          run: |
-              ./dumpyara.sh "$ROM_URL"
+              git branch
 #
 env:
-  ROM_URL: http://bigota.d.miui.com/V11.0.2.0.NCFMIXM/mido_global_images_V11.0.2.0.NCFMIXM_20191107.0000.00_7.0_global_91ed4d2a3f.tgz
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1180_all_4MQxOL7lVVxp.ozip
+
