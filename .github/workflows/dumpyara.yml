@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0230_all_zpeSGPPH3Lhp.ozip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/lineage-18.1-20210623_142229-UNOFFICIAL-CPH1859.zip
