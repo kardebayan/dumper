@@ -40,7 +40,7 @@ jobs:
        - name: Running Dumpyara
          working-directory: dumpyara
          run: |
-              git branch
+              ./dumpyara.sh "$ROM_URL"
 #
 env:
   ROM_URL: https://www.xiaomifirmwareupdater.com/firmware/surya/
