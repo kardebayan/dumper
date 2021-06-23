@@ -31,8 +31,8 @@ jobs:
          working-directory: dumpyara
          run: |
               sudo bash setup.sh
-              git config --global user.name "mirrordump"
-              git config --global user.email "mirrordump@mymail.infos.st"
+              git config --global user.name "ksauraj1"
+              git config --global user.email "kumarsauraj24@gmail.com"
 
        - name: Setup config envs
          working-directory: dumpyara
