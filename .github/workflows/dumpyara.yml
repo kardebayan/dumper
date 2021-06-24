@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/libmtkcam_3rdparty.customer.so
+  ROM_URL: hi
