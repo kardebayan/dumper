@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: hi
+  ROM_URL: https://plug-mirror.rcac.purdue.edu/osdn//storage/g/x/xi/xiaomifirmwareupdater/Stable/V11/mido/fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
