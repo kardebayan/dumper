@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://cloud.minati.workers.dev/G550FYXXU1CRD1_G550FYODD1CRD2_INS.zip
+  ROM_URL: hi
