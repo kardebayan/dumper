@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/lineage-18.1-20210623_142229-UNOFFICIAL-CPH1859.zip
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/libmtkcam_3rdparty.customer.so
