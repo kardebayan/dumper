@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/lineage-18.1-20210624_082838-UNOFFICIAL-CPH1859.zip
+  ROM_URL: https://github.com/PotatoDevices/device_redmi_begonia/releases/download/4.2.0/potato_begonia-11-20210609-dumaloo.v4.2.0+17.Crispy.zip
