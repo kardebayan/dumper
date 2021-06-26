@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/lineage-18.1-20210626_151602-UNOFFICIAL-CPH1859.zip
+  ROM_URL: @kardebayan
