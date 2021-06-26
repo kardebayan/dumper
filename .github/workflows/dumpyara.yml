@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/realme%207%20%26%20Narzo%2020%20Pro%20realme%20UI%202.0%20C.02%20Update.ozip
+  ROM_URL: https://cloud.minati.workers.dev/RMX2185_11_OTA_10300279_all_gKzgoZR0xfrX_debaa32ad61.zip
