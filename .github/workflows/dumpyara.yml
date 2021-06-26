@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0950_all_ok8HDIbdVBGM.ozip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/06/17/1bd165bd-cd1c-4fd5-99d3-f063f5720b9b.ozip
