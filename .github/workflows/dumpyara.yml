@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://cloud.minati.workers.dev/RMX2185_11_OTA_10300279_all_gKzgoZR0xfrX_debaa32ad61.zip
+  ROM_URL: https://www.mediafire.com/file/2uccr50jj7qu45e/Realme_7-RMX2151PU_11_C.04.OTA_BURAOT.ozip/file
