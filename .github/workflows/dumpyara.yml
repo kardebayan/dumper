@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://www.mediafire.com/file/2uccr50jj7qu45e/Realme_7-RMX2151PU_11_C.04.OTA_BURAOT.ozip/file
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1180_all_4MQxOL7lVVxp.ozip
