@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/PixelExperience_CPH1859-11.0-20210628-0544-UNOFFICIAL.zip
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2001/CPH2001PUEX_11_OTA_1530_all_8kCIr2aTykOt.ozip
