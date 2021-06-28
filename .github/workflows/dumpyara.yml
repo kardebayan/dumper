@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/MT6765__10__QP1A.190711.020__k65v1_64_bsp%20vivo%20Y20%202021.rar
+  ROM_URL: https://cheems.mirrorbomt.workers.dev/1:/%23%23ROMadd.com%23%23_Vivo%20Y20%202021_MT6765__10__QP1A.190711.020__k65v1_64_bsp_CM2%20Backup.rar
