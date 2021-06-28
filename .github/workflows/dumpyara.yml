@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/PixelExperience_RMX2020-11.0-20210628-0651-UNOFFICIAL.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/PixelExperience_RMX2020-11.0-20210628-1441-UNOFFICIAL.zip
