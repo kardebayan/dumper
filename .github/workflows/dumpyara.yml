@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2001/CPH2001PUEX_11_OTA_1530_all_8kCIr2aTykOt.ozip
+  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/MT6765__10__QP1A.190711.020__k65v1_64_bsp%20vivo%20Y20%202021.rar
