@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/PixelExperience_CPH1859-11.0-20210627-1814-UNOFFICIAL.zip
+  ROM_URL: https://roms.cirrus-ci.workers.dev/0:/CPH1859/PixelExperience_CPH1859-11.0-20210628-0544-UNOFFICIAL.zip
