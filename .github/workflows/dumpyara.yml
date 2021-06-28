@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://otaafsg-cost.realmemobile.com/RMX2040/RMX2040_11.C.03_10300270_202105081717/patch/amazone2/GLO/RMX2040/RMX2040_11.C.03_10300270_202105081717/RMX2040_11_OTA_10300270_all_BCnbk5HHfYIA_6479dd39ed.ozip
+  ROM_URL: https://www.coolapk.com/link?url=http://cdn-ota.blackshark.com/KLE-A1/20210531145542-klein-deltaota_834bf09f9c57302e1800631b694eda86.zip
