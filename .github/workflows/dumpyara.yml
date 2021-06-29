@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/06/24/f44c276a-a280-4d42-a551-8f1945ab04c8.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0630_all_gHv1jngWsREz.ozip
