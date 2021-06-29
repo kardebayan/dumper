@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0630_all_gHv1jngWsREz.ozip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
