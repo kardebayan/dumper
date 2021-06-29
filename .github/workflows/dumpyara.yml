@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://www.coolapk.com/link?url=http://cdn-ota.blackshark.com/KLE-A1/20210531145542-klein-deltaota_834bf09f9c57302e1800631b694eda86.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/06/24/7a861471-f3cb-4347-86de-fac2f67864f0.ozip
